@@ -1,0 +1,6 @@
+scikit-image
+tqdm
+numpy
+scipy
+matplotlib
+
