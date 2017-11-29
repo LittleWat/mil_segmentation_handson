@@ -14,7 +14,7 @@ pip install -r requirements.txt
 - Download the materials:
 
 ```
-https://github.com/LittleWat/mil_segmentation_handson.git
+git clone https://github.com/LittleWat/mil_segmentation_handson.git
 cd mil_segmentation_handson
 ```
 
