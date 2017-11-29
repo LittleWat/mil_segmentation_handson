@@ -1,13 +1,29 @@
-# Segmentation Handson 
-This is the material for MIL Rinko on November 29th, 2017.
+# Segmentation Hands-on 
+This is the materials for MIL Rinko on November 30th, 2017.
 
 ## Setup
-Python 2.7 was tested to work well.
 
-Please install the required libraries as follows;
+Python 2.7 and 3.6 were tested to work well.
+
+- Install the required libraries as follows:
+
 ```
 pip install -r requirements.txt
 ```
 
-## Hands on
-Please fill in the #TODO# blanks in slic_tutorial.ipynb
+- Download the materials:
+
+```
+https://github.com/LittleWat/mil_segmentation_handson.git
+cd mil_segmentation_handson
+```
+
+## Hands-on
+- Please open the .ipynb file:
+ 
+```
+jupyter notebook slic_tutorial_jp.ipynb  # Japanese
+jupyter notebook slic_tutorial_en.ipynb  # English
+```
+
+- Please fill in the *WRITE ME!* blanks in that file.
