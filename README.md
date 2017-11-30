@@ -5,17 +5,17 @@ This is the materials for MIL Rinko on November 30th, 2017.
 
 Python 2.7 and 3.6 were tested to work well.
 
-- Install the required libraries as follows:
-
-```
-pip install -r requirements.txt
-```
-
 - Download the materials:
 
 ```
 git clone https://github.com/LittleWat/mil_segmentation_handson.git
 cd mil_segmentation_handson
+```
+
+- Install the required libraries as follows:
+
+```
+pip install -r requirements.txt
 ```
 
 ## Hands-on
